@@ -1,0 +1,8 @@
+/node_modules
+/rds-combined-ca-bundle.pem
+/uploads
+
+
+*.ca-bundle
+*.crt
+*.pem
